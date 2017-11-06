@@ -80,7 +80,7 @@ public class VariablesTest {
         return res;
     }
     
-    @Test
+    //@Test
     public void test5(){
         System.out.println(ex5(2,0));
     }
